@@ -9,7 +9,21 @@ Responsive Design: Works well on both desktop and mobile devices.
 Total Price Calculation: Real-time total price calculation for cart items.
 Interactive Navbar: A search bar (future enhancement) and cart icon showing the number of items in the cart.
 
+📸 Screenshots
 ![Screenshot Title](Screenshot.png)
+
+📂 Project Structure
+.
+├── public              # Public directory
+├── src                 # Source code
+│   ├── components      # Reusable components (Navbar, Items, Cart)
+│   ├── App.js          # Main component
+│   ├── App.css         # Styling for the app
+│   └── index.js        # Entry point
+├── .gitignore
+├── package.json
+└── README.md           # This file
+
 
 # React + Vite
 
