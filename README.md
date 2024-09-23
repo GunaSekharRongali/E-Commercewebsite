@@ -9,6 +9,8 @@ Responsive Design: Works well on both desktop and mobile devices.
 Total Price Calculation: Real-time total price calculation for cart items.
 Interactive Navbar: A search bar (future enhancement) and cart icon showing the number of items in the cart.
 
+![Screenshot Title](Screenshot.png)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
